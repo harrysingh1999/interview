@@ -28,6 +28,7 @@ export default function Assignment({ value, onChange, title }) {
         <div className=" border border-black p-3 w-30 h-30 ">3</div>
         <div className=" border border-black p-3 w-30 h-30  ">4</div>
         <div className=" border border-black p-3 w-30 h-30 ">5</div>
+        <div className=" border border-black p-3 w-30 h-30 ">6</div>
       </div>
     </div>
   );
